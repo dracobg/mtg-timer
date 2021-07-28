@@ -12,6 +12,11 @@
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
+    "NicolBolas": {
+      "image": "./assets/images/NicolBolas.png",
+      "resizeMode": "contain",
+      "backgroundColor": "green"
+    },
     "updates": {
       "fallbackToCacheTimeout": 0
     },
@@ -24,6 +29,7 @@
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/adaptive-icon.png",
+        "backgroundImage": "./assets/images/NicolBolas.png",
         "backgroundColor": "#ffffff"
       }
     },
